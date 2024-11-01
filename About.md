@@ -1,17 +1,17 @@
 # About Me
 
-Hello! I'm a Markdown enthusiast with a passion for creating informative and engaging content. I love sharing knowledge about technology, coding, and more.
+Hello! My name is Kayla Deuser, I am a junior at Mizzou studying Information Technology with an emphasis in Business Transformation. I work at Mercy Hospital St. Louis in the MTS department! This is a github repository with Markdown Pages per my INFOTC 1600 progect instructions. See more info below! Hope you enjoy!
 
 ## Interests
 
-- Programming
-- Open Source
-- Writing
+- Business
+- Leadership
+- New Technology 
 - Web Development
 
 ### Fun Fact
 
-I have a collection of over 100 programming books!
+I have 3 sisters!!!!:) 
 
 ## Back to Home
 
