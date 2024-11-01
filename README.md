@@ -8,7 +8,6 @@ This repository contains various pages showcasing my interests in IT. Explore th
 
 - [About Me](About.md)
 - [Interests](MyInterest.md)
-- [Resources](Resources.md)
 - [Contact](Contact.md)
 
 ## Features
