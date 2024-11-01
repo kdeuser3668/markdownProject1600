@@ -2,13 +2,13 @@
 
 Here are some projects I've worked on:
 
-1. **Project A**: A web application built with React and Node.js.
+1. **Interest A**: 
    - [GitHub Repository](https://github.com/example/project-a)
 
-2. **Project B**: A data visualization tool using Python and D3.js.
+2. **Interest B**: A data visualization tool using Python and D3.js.
    - [GitHub Repository](https://github.com/example/project-b)
 
-3. **Project C**: A mobile app developed with Flutter.
+3. **Interest C**: A mobile app developed with Flutter.
    - [GitHub Repository](https://github.com/example/project-c)
 
 ### Upcoming Projects
