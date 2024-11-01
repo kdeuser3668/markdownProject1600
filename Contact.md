@@ -1,10 +1,10 @@
 # Contact Me
 
-Feel free to reach out!
+Hi!! See my contact information below. 
 
-- **Email**: [example@example.com](mailto:example@example.com)
-- **Twitter**: [@example](https://twitter.com/example)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/example)
+- **Email**: [kayla.deuser@outlook.com] [kld6h3@umsytem.edu]
+- **Phone**: [314-605-7723]
+- **LinkedIn**: [Kayla Deuser]([https://linkedin.com/in/example](https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin))
 
 ## Back to Home
 
