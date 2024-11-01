@@ -2,12 +2,12 @@
 
 # Welcome to My Markdown Repository
 
-This repository contains various pages showcasing my interests, projects, and resources. Explore the links below to learn more!
+This repository contains various pages showcasing my interests in IT. Explore the links below to learn more!
 
 ## Contents
 
 - [About Me](About.md)
-- [Projects](Projects.md)
+- [Interests](MyInterest.md)
 - [Resources](Resources.md)
 - [Contact](Contact.md)
 
